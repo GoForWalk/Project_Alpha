@@ -10,6 +10,7 @@
 </head>
 <body>
 	<header> 이것은 header 입니다.
+		<div>회원 가입</div>
 	</header>
 	<article> 이것은 article 입니다.
 	</article>
