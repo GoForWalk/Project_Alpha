@@ -9,11 +9,11 @@
 <title>알파 홈페이지</title>
 </head>
 <body>
-	<header>
+	<header> 이것은 header 입니다.
 	</header>
-	<article>
+	<article> 이것은 article 입니다.
 	</article>
-	<footer>
+	<footer> 이것은 footer 입니다.
 	</footer>
 </body>
 </html>
